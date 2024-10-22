@@ -1,0 +1,19 @@
+1.BinaryTest
+2.BinaryTest2
+3.BinaryTest3, BinaryTest4
+4.TypeTest
+5.ByteVariable
+6.IntegerVariable
+7.LongVariable
+8.Variable1
+9.DoubleEx1
+10.DoubleEx2
+11.DoubleEx3
+12.CharacterEx1 
+13.CharacterEx2
+14.TypeInference
+15.ImplicitConversion
+16.ExplicitConversion
+17.BooleanEx
+18.StringTest
+19.Constant
